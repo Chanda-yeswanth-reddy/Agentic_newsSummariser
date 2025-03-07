@@ -8,7 +8,7 @@ from phi.tools.newspaper4k import Newspaper4k
 
 # Load environment variables
 load_dotenv()
-NEWS_API_KEY = "dc3aca8dc6134620a676633be53d2928"
+NEWS_API_KEY = ""
 
 app = Flask(__name__)
 
